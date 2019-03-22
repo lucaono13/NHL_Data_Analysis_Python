@@ -1,6 +1,6 @@
 # NHL Data Analysis Python
 
-Project completed in Winter 2019 with two others for Data Science using Python where we found a dataset on NHL data from the past 6 seasons (up until the 17/18 season) and did analysis on the data. We have three different managerial insights that are highlighted on the notebook file.
+Project completed in Winter 2019 with two others for Data Science using Python where we found a dataset on NHL data from the past 6 seasons (up until the 17/18 season) and did analysis on the data. We have three different managerial insights that are highlighted on the notebook file. The insights are on shutdown analysis (which players to attempt to shutdown in the playoffs), are having more Canadians better for your team, and can your team still win if it has a negative plus/minus.
 
 ## Overview
     * Data from https://www.kaggle.com/martinellis/nhl-game-data
